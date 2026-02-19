@@ -1,5 +1,4 @@
-# Sindhi Paraphrase Detection
-
+# Monolingual Paraphrase Detection - Low Resource Sindhi Lang at Sentence Level
 This project focuses on **sentence-level paraphrase detection for the Sindhi language**. The system classifies whether two Sindhi sentences convey the same meaning (paraphrase) or not (non-paraphrase).
 
 ## Overview
