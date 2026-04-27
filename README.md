@@ -4,7 +4,6 @@ This project focuses on **sentence-level paraphrase detection for the Sindhi lan
 ## Overview
 
 Paraphrase detection is important for many NLP applications such as question answering, plagiarism detection, information retrieval, and text similarity systems.
-
 Most previous work focuses on English, while Sindhi remains a low-resource language. This project helps fill that gap by creating a dataset and building detection models.
 
 ## Objectives
